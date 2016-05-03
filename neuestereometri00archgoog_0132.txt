@@ -1,0 +1,39 @@
+128 Anmerkungen.
+
+sind aber drei Zahlen m > p > q, so beschemen, dass
+
+Selange die Stumpfe vom grtssten Zylinder nur wenig ab·
+weichen, also ΑΗ klein ist, wird sieher euch
+
+Ἢ < {- demnaet] auch 2ιῇΑάβῶ < ἓ oder
+St (UA, h) < Zyt (OG, b), weil ja h stets grtsser ist als b.
+Nimmt h weiter zu, so nehmen die Zylinder OEA, solglieh
+aueh die Stumpfe CTA ab3 demit ist der Satz bewiesen.
+
+38) he S. 88. Κ. weiss‚ dass es sieh hier um die Auf-
+lesung einer Gleiehung dritten Grades handelt die er auf geo-
+metn‘sehem Wege fiir unmtglieh halt. Mit den Methoden der
+Algebra oder Cossa wenig veltraut, besehrtnkt er sieh hier
+und im folgenden Satze auf einige dunkle Andeutungen und
+beruft sich auf den arabisehen Astronomen und Mathematiker
+θώων (Demeter ibe Aslah) des 11. Jahrhunderts. Die Frage
+naeh den Wurzeln einer Gleiehung dritten Grades stellten die
+Cossisten in folgender Art: Gegeben ist das erste Glied eines·
+geometrisehen Reihe a, semer die Summe oder Differenz des
+zweiten und vielten aq :ts αρ’ = m, zu finden ist das zweite
+und dritte Glied oder die zweite und dritte stetige Prop01tionale.
+
+Anderson lest in den Exereitationes mathematicae, Paris
+1619, Ks Problem in naehstehender Weise. Die gestellte
+Ausgabe ist identiseh mit der, jenes quadratisehe Prisma in der
+Kugel zu finden, das gleieh ist einem gegebenen Ktrper von
+kleinerem Inhalt als der gresste parallelepipedisehe Kerper in
+der Kugel, das ist der Wtrfel.
+
+Es sei der gegebene Kerper e= 4r² · 33< a³, wenn r
+
+der Radius der Kugel‚ a die Seite des eingesehrlebenen thr-
+sels ist, die Hehe des gesuehten Prismas sei x, also
+
+ 
+
