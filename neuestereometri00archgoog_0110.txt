@@ -1,0 +1,58 @@
+106 . Nachwort dos Herausgebers.
+
+rata«, Tubingae 1795, den andern Rotationskssrpern, die
+Kepler als Ring‚ Apfel usw. bezeichnet, gewidmet ist. Boi
+der Wiohtigkeit einer gonauen Fassbestimmung ist es nieht ιιι
+ιοιιιιιιᾱοιι, ᾱιΒ noch οἰιιο Reihe von Mathematikern der
+›Visierkunst‹ ihre Aufmerksamkeit zuwandte, ohne aber das
+Problem wesentlioh ιιι ιὀιοοιι. Die angefflhrten drei Abhand-
+langen anthalten ιο ziemlioh die Lbsung aller bei Kepler ge-
+stellten Aufgaben, ihre Mothoden sind noch recht schwerfflllig
+und lassen sioh nach dem heutigen Standpunkt bedentend ver-
+einfaehen.
+
+Bezieht man dio Gleiohung einer Ellipse (Εἰς. 15) auf die
+Rotationsaohse AB und neunt A den Abstand des Mittelpunktes
+0 von ihr, so ist der Rotationskzsrper bestimmt durch:
+
+, b,
+
+dS = 47coeydx und ιι wird, wenn ι - Δ = ⁹⁶st = ἆῑ ist:
+
+S: 47c (ι -ὶ- Δ) W - k²x¹dx oder
+
+47c
+
+32'3102
+
+(12² - Δι’)ξς -Ι- 2πΔ . rotierend. Segm.
+
+Rotiert das grbssere Segment ABD, so sind die Grenzen
+fur ι bzw. -Δ und a, rotiert das kleinere ABG, ιο ist fflr
+
+{Imm lssetzen -Δ und von Δ bis a zu integriorem. Man er-
+a ο
+
+S: Q} ὲ.- 2πΔ . Sem, wobei das obere Zeiohen fflr
+
+310²
+das grbssere Segffient gilt.
+Nimmt man ι1ι untere Grenze H, als obere ο, ιο ergibt
+sich fur den Wulst oder Limbus, entstanden durch Rotation
+des Teiles MD um AB, die Formel:
+
+(12² - ΙΜ)ἓ ss 2πΔ . Segm. oder
+
+8:353} ὲ.- 2nA.Segm.
+
+Will man den Inhalt eines {Fasses finden, so ist οι be-
+
+οιοιιιοι, dio Flaohe in Streifen parallel zur X-Achse zur zer· ,
+
+logon und einige Umformungen vorzunehmen.
+Wenn die Ellipse (Εἰς. 16) ι’(ι - AJ² 4- b'y' = Ab· um
+
+die Y-Achse rotien, so orhstlt man, da ds = 2rc 5oe²dy, fur ἵ
+
+ 
+
