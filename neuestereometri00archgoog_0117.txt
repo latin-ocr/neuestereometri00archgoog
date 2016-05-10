@@ -1,0 +1,57 @@
+. Ι Anmerkungen. 113
+
+den Bogen einer Kurve entstehenden Rotationskmpers gleich
+dem Produkt aus der Lange des Bogens und dem Weg des
+Schwerpunkts.
+
+5) m s, 20. Als zylindrazeisohe mrpffl· bezei‘ohnet Kepler
+
+K6rper, die durch Rotation eines von zwei parallelen und
+gleiohlangen Sehnen begrenzten Teiles eines Kreises um den zu
+den Sehnen parallelen Durohmesser entstehen. Ftir sie gilt der
+Lehrsatz ebenfalls. Dagegen ist der Satz fiir den Gilrtel oder
+Wulst einer Kugel‚ der durch einen konzentrisohen zylindffl»
+von ihr abgesohnitten wird, nieht mehr anwendbar.
+
+6) Zu S. 22. Der Apfel entsteht durch Rotation des
+Kreisteils MIDKN um MN. Denkt man sich die Flfiohe in
+Linienelemente parallel zu MN zer· Fig 20
+legt, so erzeugt jedes solohe Flfiohen- Ι ’ ’
+element eine ›munim‹ oder einen “A
+ringffirmigenApfelschnitt‚fflrwelohen MR
+der Lehrsatz 19 gilt. Dieseunendlieh -
+dflnnen Tuniken ergoben, in eine '
+
+Ebene ausgebreitet, Rechteeke, dio Ε ”
+zusammen den Zylinderhuf M SDN
+ausmaohen. Die H6he jedes Reoht- Ν
+eom ist gleioh dem Umfang des ι’
+Κτθὶεθε, den oin Punkt des Flfiehen- ⁸
+elements bei der Rotation um MN besohreibt. .
+Es ist daher der Apfelwulst, der durch Rotation von IDK
+um MN entsteht - ioh fflhro dafflr kurz IDKJ MN ein
+und analoge Bezeiohnungen fur die folgenden Grbssen —- gleioh
+dem Teil des Hufes fiber IDK.
+Denkt man sich den Halbkreis bb'T um bb' (mg. 5 S. 21)
+
+rotiorend, so besehreibt er eine Kugel‚ die dem Zylinderprisma
+oder Huf bb'TS gleieh ist. Es ist also:
+
+MIDKNJMN :MNDs=ADs
+
+mfm' “
+
+msam
+
+IDKJJMN= ODSL
+
+Ostwalds Klassikor. 165. 8
+
+-- GTS
+
+fflsm‘
+
+= VTSL
+
+ 
+
